@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant market intelligence for the Lexington-Fayette (Metro), Kentucky metro, including Lexington and Fayette. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Lexington-Fayette (Metro), Kentucky, US",
+  "export_job_id": "621b6dfb-38d0-47d9-8972-702223b9cff2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 223890,
+  "location_name": "Lexington-Fayette, KY",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-lexington-fayette-metro-kentucky-us-sample-223890",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/223890/beamstation_223890_restaurants-us-lexingtonfayetteky_SAMPLE_DIST.csv",
+  "sample_pct": 2.22,
+  "sample_records": 25,
+  "sample_sha256": "bd3bb84759ca21d76dd4da001ab41770aed6b91845a1dfbd743910bb7c7c1a42",
+  "sample_size_bytes": 117896,
+  "total_records": 1127,
+  "updated_at": "2026-03-31T13:57:14.038441+00:00"
+}
