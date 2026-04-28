@@ -1,6 +1,6 @@
 # All Restaurants in Lexington-Fayette (Metro), Kentucky, US
 
-> Free BeamStation sample export with 147 rows and masked direct-contact fields.
+> Free BeamStation sample export with 133 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `223890` |
 | Location | Lexington-Fayette, KY |
 | Category | Restaurants |
-| Full dataset size | 1,474 records |
-| Free sample size | 147 records (9.97%) |
-| Last export | 2026-04-21T15:32:49.978288+00:00 |
+| Full dataset size | 1,337 records |
+| Free sample size | 133 records (9.95%) |
+| Last export | 2026-04-28T16:35:14.981816+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lexington-fayette-metro-kentucky-us-sample-223890/releases/download/sample-latest/beamstation_223890_restaurants-us-lexingtonfayetteky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
