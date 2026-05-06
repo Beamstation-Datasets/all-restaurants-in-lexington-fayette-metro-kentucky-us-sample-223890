@@ -1,12 +1,12 @@
 {
-  "export_job_id": "16d63abc-5989-4a29-af25-81c7794b0073",
+  "export_job_id": "495d9b4f-2113-41fa-8216-4e0ac6ab4ca0",
   "id_short": 223890,
-  "published_at": "2026-04-28T19:08:43Z",
+  "published_at": "2026-05-06T19:07:25Z",
   "repo_name": "all-restaurants-in-lexington-fayette-metro-kentucky-us-sample-223890",
   "sample_asset_name": "beamstation_223890_restaurants-us-lexingtonfayetteky_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/223890/beamstation_223890_restaurants-us-lexingtonfayetteky_SAMPLE_DIST.csv",
-  "sample_records": 133,
-  "sample_sha256": "762bfb814d37d5fe24386a1a9aa1768e3f2d3d2c77503993485ede53d5a60f14",
-  "sample_size_bytes": 488824,
-  "total_records": 1337
+  "sample_records": 153,
+  "sample_sha256": "a5673e3de2fb48e00925257767ccec74477e3fb7be89d728c234200092710feb",
+  "sample_size_bytes": 527749,
+  "total_records": 1538
 }
